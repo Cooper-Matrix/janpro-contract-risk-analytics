@@ -1,0 +1,3 @@
+risk_category,contract_count,monthly_revenue_exposure,average_margin_pct,average_inspection_score,total_complaints
+High Risk,3,8200,34.65,82.33,4
+Low Risk,17,24800,51.51,90.53,3

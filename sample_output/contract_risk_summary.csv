@@ -1,0 +1,21 @@
+month,contract_id,client_name,industry,monthly_rate,payment_status,days_late,inspection_score,complaints,labor_hours,supply_cost,estimated_labor_cost,estimated_margin_dollars,estimated_margin_pct,risk_score,risk_category,renewal_date
+2026-03,C007,Manufacturing G,Industrial,2750,Late,15,80,2,84,365,1512,873,31.75,85,High Risk,2025-06-15
+2026-03,C010,Distribution Center J,Industrial,3200,Late,10,83,1,95,415,1710,1075,33.59,70,High Risk,2025-09-01
+2026-03,C016,Lab Facility P,Healthcare,2250,Late,4,84,1,62,265,1116,869,38.62,70,High Risk,2025-10-15
+2026-03,C002,Warehouse B,Industrial,2400,On Time,0,85,1,65,278,1170,952,39.67,25,Low Risk,2025-08-01
+2026-03,C009,Medical Office I,Healthcare,1650,On Time,0,87,1,41,148,738,764,46.3,25,Low Risk,2026-04-01
+2026-03,C012,Call Center L,Commercial Office,2300,On Time,0,90,1,58,212,1044,1044,45.39,15,Low Risk,2025-12-01
+2026-03,C018,Industrial Yard R,Industrial,1950,On Time,0,88,0,49,182,882,886,45.44,10,Low Risk,2026-03-15
+2026-03,C020,Tech Office T,Commercial Office,1800,On Time,0,89,0,43,152,774,874,48.56,10,Low Risk,2026-05-01
+2026-03,C014,Auto Parts Office N,Industrial,1500,On Time,0,87,0,39,138,702,660,44,10,Low Risk,2026-08-01
+2026-03,C004,Dental Clinic D,Healthcare,1250,On Time,0,88,0,34,112,612,526,42.08,10,Low Risk,2026-03-01
+2026-03,C008,Insurance Office H,Professional Services,1100,On Time,0,89,0,22,74,396,630,57.27,10,Low Risk,2026-02-12
+2026-03,C005,Office Complex E,Commercial Office,2100,On Time,0,92,0,53,185,954,961,45.76,0,Low Risk,2025-11-20
+2026-03,C001,Medical Office A,Healthcare,1850,On Time,0,93,0,42,138,756,956,51.68,0,Low Risk,2026-01-15
+2026-03,C013,Physical Therapy M,Healthcare,1350,On Time,0,91,0,35,122,630,598,44.3,0,Low Risk,2026-01-01
+2026-03,C015,Accounting Firm O,Professional Services,1050,On Time,0,92,0,20,69,360,621,59.14,0,Low Risk,2026-02-20
+2026-03,C019,Chiropractic Office S,Healthcare,975,On Time,0,92,0,19,64,342,569,58.36,0,Low Risk,2026-07-15
+2026-03,C003,Law Office C,Professional Services,950,On Time,0,91,0,18,61,324,565,59.47,0,Low Risk,2026-05-10
+2026-03,C011,Real Estate Office K,Professional Services,900,On Time,0,95,0,17,54,306,540,60,0,Low Risk,2026-06-01
+2026-03,C006,Retail Store F,Retail,875,On Time,0,94,0,16,56,288,531,60.69,0,Low Risk,2026-07-01
+2026-03,C017,Office Suite Q,Commercial Office,800,On Time,0,96,0,12,43,216,541,67.62,0,Low Risk,2026-09-01

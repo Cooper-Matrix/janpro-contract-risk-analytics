@@ -1,0 +1,61 @@
+month,contract_id,client_name,industry,monthly_rate,days_late,complaints,inspection_score,estimated_margin_pct,labor_hours,predicted_high_risk_probability,predicted_risk_band
+2026-01,C002,Warehouse B,Industrial,2400,12,1,84,38.83,66,1,High Probability
+2026-01,C007,Manufacturing G,Industrial,2750,18,2,79,33.24,82,1,High Probability
+2026-01,C010,Distribution Center J,Industrial,3200,9,1,82,34.31,94,1,High Probability
+2026-01,C016,Lab Facility P,Healthcare,2250,5,1,83,39.64,61,1,High Probability
+2026-02,C002,Warehouse B,Industrial,2400,6,1,86,40.75,64,1,High Probability
+2026-02,C007,Manufacturing G,Industrial,2750,22,3,78,30.07,86,1,High Probability
+2026-02,C010,Distribution Center J,Industrial,3200,14,2,81,32.31,97,1,High Probability
+2026-02,C016,Lab Facility P,Healthcare,2250,7,2,82,37.38,63,1,High Probability
+2026-03,C007,Manufacturing G,Industrial,2750,15,2,80,31.75,84,1,High Probability
+2026-03,C010,Distribution Center J,Industrial,3200,10,1,83,33.59,95,1,High Probability
+2026-03,C016,Lab Facility P,Healthcare,2250,4,1,84,38.62,62,1,High Probability
+2026-01,C001,Medical Office A,Healthcare,1850,0,0,92,51.84,42,0,Low Probability
+2026-01,C003,Law Office C,Professional Services,950,0,0,90,59.58,18,0,Low Probability
+2026-01,C004,Dental Clinic D,Healthcare,1250,0,1,87,42.24,34,0,Low Probability
+2026-01,C005,Office Complex E,Commercial Office,2100,0,0,91,44.67,54,0,Low Probability
+2026-01,C006,Retail Store F,Retail,875,0,0,93,60.8,16,0,Low Probability
+2026-01,C008,Insurance Office H,Professional Services,1100,0,0,88,57.18,22,0,Low Probability
+2026-01,C009,Medical Office I,Healthcare,1650,0,1,86,46.48,41,0,Low Probability
+2026-01,C011,Real Estate Office K,Professional Services,900,0,0,94,59.89,17,0,Low Probability
+2026-01,C012,Call Center L,Commercial Office,2300,0,1,89,45.26,58,0,Low Probability
+2026-01,C013,Physical Therapy M,Healthcare,1350,0,0,90,44.44,35,0,Low Probability
+2026-01,C014,Auto Parts Office N,Industrial,1500,0,1,85,43.87,39,0,Low Probability
+2026-01,C015,Accounting Firm O,Professional Services,1050,0,0,92,59.05,20,0,Low Probability
+2026-01,C017,Office Suite Q,Commercial Office,800,0,0,95,67.38,12,0,Low Probability
+2026-01,C018,Industrial Yard R,Industrial,1950,0,1,86,45.28,49,0,Low Probability
+2026-01,C019,Chiropractic Office S,Healthcare,975,0,0,91,58.26,19,0,Low Probability
+2026-01,C020,Tech Office T,Commercial Office,1800,0,0,89,48.67,43,0,Low Probability
+2026-02,C001,Medical Office A,Healthcare,1850,0,0,91,50.59,43,0,Low Probability
+2026-02,C003,Law Office C,Professional Services,950,0,0,92,59.37,18,0,Low Probability
+2026-02,C004,Dental Clinic D,Healthcare,1250,0,0,89,44.08,33,0,Low Probability
+2026-02,C005,Office Complex E,Commercial Office,2100,0,0,90,43.57,55,0,Low Probability
+2026-02,C006,Retail Store F,Retail,875,0,0,94,60.91,16,0,Low Probability
+2026-02,C008,Insurance Office H,Professional Services,1100,0,1,87,55.27,23,0,Low Probability
+2026-02,C009,Medical Office I,Healthcare,1650,0,0,88,47.88,40,0,Low Probability
+2026-02,C011,Real Estate Office K,Professional Services,900,0,0,94,59.67,17,0,Low Probability
+2026-02,C012,Call Center L,Commercial Office,2300,0,0,90,46.26,57,0,Low Probability
+2026-02,C013,Physical Therapy M,Healthcare,1350,0,1,89,42.81,36,0,Low Probability
+2026-02,C014,Auto Parts Office N,Industrial,1500,0,1,86,42.53,40,0,Low Probability
+2026-02,C015,Accounting Firm O,Professional Services,1050,0,0,93,59.24,20,0,Low Probability
+2026-02,C017,Office Suite Q,Commercial Office,800,0,0,95,67.5,12,0,Low Probability
+2026-02,C018,Industrial Yard R,Industrial,1950,0,0,87,46.46,48,0,Low Probability
+2026-02,C019,Chiropractic Office S,Healthcare,975,0,0,90,58.15,19,0,Low Probability
+2026-02,C020,Tech Office T,Commercial Office,1800,0,1,88,47.39,44,0,Low Probability
+2026-03,C001,Medical Office A,Healthcare,1850,0,0,93,51.68,42,0,Low Probability
+2026-03,C002,Warehouse B,Industrial,2400,0,1,85,39.67,65,0,Low Probability
+2026-03,C003,Law Office C,Professional Services,950,0,0,91,59.47,18,0,Low Probability
+2026-03,C004,Dental Clinic D,Healthcare,1250,0,0,88,42.08,34,0,Low Probability
+2026-03,C005,Office Complex E,Commercial Office,2100,0,0,92,45.76,53,0,Low Probability
+2026-03,C006,Retail Store F,Retail,875,0,0,94,60.69,16,0,Low Probability
+2026-03,C008,Insurance Office H,Professional Services,1100,0,0,89,57.27,22,0,Low Probability
+2026-03,C009,Medical Office I,Healthcare,1650,0,1,87,46.3,41,0,Low Probability
+2026-03,C011,Real Estate Office K,Professional Services,900,0,0,95,60,17,0,Low Probability
+2026-03,C012,Call Center L,Commercial Office,2300,0,1,90,45.39,58,0,Low Probability
+2026-03,C013,Physical Therapy M,Healthcare,1350,0,0,91,44.3,35,0,Low Probability
+2026-03,C014,Auto Parts Office N,Industrial,1500,0,0,87,44,39,0,Low Probability
+2026-03,C015,Accounting Firm O,Professional Services,1050,0,0,92,59.14,20,0,Low Probability
+2026-03,C017,Office Suite Q,Commercial Office,800,0,0,96,67.62,12,0,Low Probability
+2026-03,C018,Industrial Yard R,Industrial,1950,0,0,88,45.44,49,0,Low Probability
+2026-03,C019,Chiropractic Office S,Healthcare,975,0,0,92,58.36,19,0,Low Probability
+2026-03,C020,Tech Office T,Commercial Office,1800,0,0,89,48.56,43,0,Low Probability

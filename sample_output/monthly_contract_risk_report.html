@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Jan-Pro Contract Risk Monthly Report</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.5; }
+    h1, h2 { color: #222; }
+    .kpi { display: inline-block; padding: 15px; margin: 8px; border: 1px solid #ccc; border-radius: 8px; min-width: 180px; }
+    .kpi strong { display: block; font-size: 22px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 15px; }
+    th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+    th { background: #f2f2f2; }
+    img { max-width: 900px; width: 100%; border: 1px solid #ddd; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Jan-Pro Contract Risk & Revenue Exposure Monthly Report</h1>
+  <p><strong>Reporting Month:</strong> 2026-03</p>
+  <p>This report treats commercial cleaning contracts as a small operating portfolio. The goal is to identify contracts with revenue exposure, margin pressure, service-quality risk, and future high-risk probability.</p>
+
+  <h2>Executive Summary</h2>
+  <div class="kpi"><strong>$33,000</strong>Total Monthly Revenue</div>
+  <div class="kpi"><strong>3</strong>High-Risk Contracts</div>
+  <div class="kpi"><strong>$8,200</strong>High-Risk Revenue Exposure</div>
+  <div class="kpi"><strong>48.98%</strong>Average Estimated Margin</div>
+  <div class="kpi"><strong>89.3</strong>Average Inspection Score</div>
+
+  <h2>High-Risk Contract Review</h2>
+  <table><tr><th>client_name</th><th>industry</th><th>monthly_rate</th><th>inspection_score</th><th>complaints</th><th>estimated_margin_pct</th><th>risk_score</th></tr><tr><td>Manufacturing G</td><td>Industrial</td><td>2750</td><td>80</td><td>2</td><td>31.75</td><td>85</td></tr><tr><td>Distribution Center J</td><td>Industrial</td><td>3200</td><td>83</td><td>1</td><td>33.59</td><td>70</td></tr><tr><td>Lab Facility P</td><td>Healthcare</td><td>2250</td><td>84</td><td>1</td><td>38.62</td><td>70</td></tr></table>
+
+  <h2>Predictive Risk View</h2>
+  <p>This section ranks contracts by estimated probability of becoming high-risk based on payment behavior, complaints, inspection scores, margin pressure, and labor hours.</p>
+  <table><tr><th>client_name</th><th>industry</th><th>monthly_rate</th><th>predicted_high_risk_probability</th><th>predicted_risk_band</th></tr><tr><td>Warehouse B</td><td>Industrial</td><td>2400</td><td>1</td><td>High Probability</td></tr><tr><td>Manufacturing G</td><td>Industrial</td><td>2750</td><td>1</td><td>High Probability</td></tr><tr><td>Distribution Center J</td><td>Industrial</td><td>3200</td><td>1</td><td>High Probability</td></tr><tr><td>Lab Facility P</td><td>Healthcare</td><td>2250</td><td>1</td><td>High Probability</td></tr><tr><td>Warehouse B</td><td>Industrial</td><td>2400</td><td>1</td><td>High Probability</td></tr><tr><td>Manufacturing G</td><td>Industrial</td><td>2750</td><td>1</td><td>High Probability</td></tr><tr><td>Distribution Center J</td><td>Industrial</td><td>3200</td><td>1</td><td>High Probability</td></tr><tr><td>Lab Facility P</td><td>Healthcare</td><td>2250</td><td>1</td><td>High Probability</td></tr><tr><td>Manufacturing G</td><td>Industrial</td><td>2750</td><td>1</td><td>High Probability</td></tr><tr><td>Distribution Center J</td><td>Industrial</td><td>3200</td><td>1</td><td>High Probability</td></tr></table>
+
+  <h2>Charts</h2>
+  <h3>Risk Score by Contract</h3>
+  <img src="risk_score_by_contract.png" alt="Risk score by contract">
+  <h3>Revenue Exposure by Risk Category</h3>
+  <img src="revenue_exposure_by_risk.png" alt="Revenue exposure by risk">
+  <h3>Predicted High-Risk Probability</h3>
+  <img src="predicted_high_risk_probability.png" alt="Predicted high risk probability">
+
+  <h2>Management Interpretation</h2>
+  <p>The main operational concern is not just whether a contract is profitable today. It is whether service quality, payment behavior, and cost pressure show early signs of future revenue exposure. Contracts with high complaints, low inspection scores, late payments, or shrinking margins should be reviewed before renewal or pricing decisions are made.</p>
+</body>
+</html>
+
